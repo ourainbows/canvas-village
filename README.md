@@ -1,2 +1,2 @@
 # Canvas Village
-Attemp to make a game with canvas
+Attemp to make a game with canvas 🚀
